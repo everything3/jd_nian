@@ -1,11 +1,11 @@
-name: Github JD-sign bot
+name: Github JD_nian
 
 on:
     push:
         branches:
             - master
     schedule:
-        - cron: '30 15 * * *'
+        - cron: '30 3 * * *'
  
 #env:
 #  JD_COOKIE: ${{ secrets.JD_COOKIE }}
