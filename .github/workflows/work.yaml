@@ -3,7 +3,7 @@ name: Github JD_nian
 on:
     push:
         branches:
-            - master
+            - main
     schedule:
         - cron: '30 3 * * *'
  
