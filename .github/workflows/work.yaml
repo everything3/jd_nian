@@ -26,7 +26,7 @@ jobs:
                 node-version: '12.x'
             - name: Run app
               run: npm install
-            - run: node app.js
+            - run: node jd_nian.js
               
             #- name: Upload result file
             #  uses: actions/upload-artifact@master
