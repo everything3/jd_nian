@@ -64,9 +64,9 @@ async function start() {
       content = fs.readFileSync(path, "utf8");
     }
     let t = content.match(/【签到概览】:((.|\n)*)【签到总计】/)
-    let res = t ? t[1].replace(/\n/,'') : '失败'
+    let res = t ? t[1].replace(/\n/,'') : '年兽'
     let t2 = content.match(/【签到总计】:((.|\n)*)【账号总计】/)
-    let res2 = t2 ? t2[1].replace(/\n/,'') : '总计0'
+    let res2 = t2 ? t2[1].replace(/\n/,'') : '京东'
 
     
     await sendNotify("" + ` ${res2} ` + ` ${res} ` + new Date().toLocaleDateString(), content);
