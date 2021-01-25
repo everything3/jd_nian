@@ -15,7 +15,7 @@ const DualKey = process.env.JD_COOKIE_2;
 
 async function downFile () {
     // const url = 'https://cdn.jsdelivr.net/gh/NobyDa/Script@master/JD-DailyBonus/JD_DailyBonus.js'
-    const url = 'https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js';
+    const url = 'https://raw.githubusercontent.com/quyi17/JD/main/jd_nian.js';
     await download(url, './');
 }
 
