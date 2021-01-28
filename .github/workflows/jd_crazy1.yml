@@ -6,7 +6,7 @@ name: jd_crazy
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 16 * * *'
+    - cron: '0 16,23,6 * * *'
   watch:
     types: started
   #提交执行
