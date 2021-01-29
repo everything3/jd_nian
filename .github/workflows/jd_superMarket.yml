@@ -7,10 +7,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '11 0-23/5 * * *'
-  watch:
-    types: started
-  repository_dispatch:
-    types: superMarket
+  #watch:
+  #  types: started
+  #repository_dispatch:
+  #  types: superMarket
 jobs:
   build:
 
