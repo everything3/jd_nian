@@ -7,10 +7,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '30 15 * * *'
-  watch:
-        types: started
-  repository_dispatch:
-    types: unsubscribe
+  #watch:
+  #      types: started
+  #repository_dispatch:
+  #  types: unsubscribe
 jobs:
   build:
 
