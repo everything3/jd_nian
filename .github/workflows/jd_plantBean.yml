@@ -7,10 +7,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 23,0-14/1 * * *'
-  watch:
-    types: started
-  repository_dispatch:
-    types: pantBean
+  #watch:
+  #  types: started
+  #repository_dispatch:
+  #  types: pantBean
 jobs:
   build:
 
