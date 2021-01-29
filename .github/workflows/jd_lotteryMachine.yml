@@ -7,10 +7,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 16 * * *'
-  watch:
-    types: started
-  repository_dispatch:
-    types: jd_lotteryMachine
+  #watch:
+  #  types: started
+  #repository_dispatch:
+  #  types: jd_lotteryMachine
 jobs:
   build:
 
