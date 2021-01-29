@@ -1,4 +1,5 @@
-# 本项目为搬运，更新不及时，需要的朋友请移步原项目地址：https://github.com/quyi17/JD，请不要在此fork!
+# 本项目为搬运，更新不及时，需要的朋友请移步原项目地址：https://github.com/quyi17/JD
+# 请不要在此fork!
 
 ## 特别声明: 
 
