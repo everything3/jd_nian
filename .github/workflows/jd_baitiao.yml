@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 16 * * *'
-  watch:
-    types: started
+  #watch:
+  #  types: started
   repository_dispatch:
     types: baitiao
 jobs:
