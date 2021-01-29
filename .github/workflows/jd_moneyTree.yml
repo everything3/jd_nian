@@ -7,10 +7,10 @@ on:
 
   schedule:
     - cron: '0/120 * * * *'
-  watch:
-    types: started
-  repository_dispatch:
-    types: moneyTree
+  #watch:
+  #  types: started
+  #repository_dispatch:
+  #  types: moneyTree
 jobs:
   build:
 
