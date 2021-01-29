@@ -9,8 +9,8 @@ on:
     - cron: '0 16 * * *'
   #watch:
   #  types: started
-  repository_dispatch:
-    types: baitiao
+  #repository_dispatch:
+  #  types: baitiao
 jobs:
   build:
 
