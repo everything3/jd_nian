@@ -25,6 +25,14 @@
 1. 其中 [jd_bean_sign.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_bean_sign.js) 可N个京东账号，Node.js专用，核心脚本是JD_DailyBonus.js， IOS软件用户请使用NobyDa的 [JD_DailyBonus.js](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
 2. 以字母排序。
 
+| 尚未加入 | 名称                        | 脚本                                                                                                     | 活动入口                |
+| ------- | --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1   | 5G狂欢城                        | [jd_5g.js]                   | 暂无                       |
+| 2   | 京东手机年终奖                   | [jd_festival.js]             |                           |
+| 3   | 闪购盲盒                        | [jd_sgmh.js]                 | 京东APP首页-闪购-闪购盲盒    |
+| 4   | 京东超级盒子                     | [jd_super_box.js]            |                           |
+
+
 | 长期活动 | 名称                        | 脚本                                                                                                     | 活动入口                |
 | ------- | --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
 | 1   | 京豆变动通知                     | [jd_bean_change.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_bean_change.js)       |                        |
@@ -70,6 +78,18 @@
 | 41   | 注销京东会员卡                   | [jd_unbind.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_unbind.js)                 |                        |
 | 42   | 取关京东店铺和商品               | [jd_unsubscribe.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_unsubscribe.js)       |                        |
 | 43   | 京喜签到                        | [jx_sign.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jx_sign.js)                     |                        |
+
+
+| 短期 | 时间         |名称          | 脚本                                                                                                    | 活动入口                |
+| ---- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1   |21.1.6～21.2.5| 盲盒抽京豆    | [jd_mh.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_mh.js)       |                        |
+| 2   |              |              |                                                                                       |                        |
+
+
+| 活动时间未知 | 名称                    | 脚本                                                                                                 | 活动入口               |
+| -------     | ----------------------- | --------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1   | 京东超级盒子                     | [jd_super_box.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_super_box.js)       |                        |
+| 2   |                                 |                                                                                                     |                        |
 
 搬运脚本
 1.  【[@yangtingxiao](https://github.com/yangtingxiao)】京东抽奖机([jd_lotteryMachine.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_lotteryMachine.js))
