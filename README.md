@@ -40,9 +40,9 @@
 | 3   | 京东多合一签到                   | [jd_bean_sign.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_bean_sign.js)           | 各处的签到汇总           |
 | 4   | 东东超市兑换奖品                 | [jd_blueCoin.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_blueCoin.js)           | 京东APP我的-更多工具-东东超市 |
 | 5   | 口袋书店                         | [jd_bookshop.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_bookshop.js)         | 京东app首页-京东图书-右侧口袋书店|
-| 6   | 京东汽车赛点兑换京豆       | [jd_car_exchange.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_car_exchange.js) | 京东APP首页-京东汽车-屏幕右中部，车主福利|
-| 7   | 签到领现金                       | [jd_cash.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_cash.js)                     | 京东APP搜索领现金进入    |
-| 8   | 京东汽车签到                     | [jd_car.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_car.js)            | 京东APP首页-京东汽车-屏幕右中部，车主福利|
+| 6   | 京东汽车签到                     | [jd_car.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_car.js)            | 京东APP首页-京东汽车-屏幕右中部，车主福利|
+| 7   | 京东汽车赛点兑换京豆       | [jd_car_exchange.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_car_exchange.js) | 京东APP首页-京东汽车-屏幕右中部，车主福利|
+| 8   | 签到领现金                       | [jd_cash.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_cash.js)                     | 京东APP搜索领现金进入    |
 | 9   | 摇京豆                           | [jd_club_lottery.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_club_lottery.js)     | 京东APP首页-领京豆-摇京豆|
 | 10   | 疯狂的JOY挂机            | [jd_crazy_joy_coin.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_crazy_joy_coin.js)     | 京东APP我的-更多工具-疯狂的JOY|
 | 11   | 疯狂的JOY日常任务                | [jd_crazy_joy.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_crazy_joy.js)        | 京东APP我的-更多工具-疯狂的JOY|
@@ -80,10 +80,11 @@
 | 43   | 京喜签到                        | [jx_sign.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jx_sign.js)                     |                        |
 
 
-| 短期 | 时间         |名称          | 脚本                                                                                                    | 活动入口                |
-| ---- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 1   |21.1.6～21.2.5| 盲盒抽京豆    | [jd_mh.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_mh.js)       |                        |
-| 2   |              |              |                                                                                       |                        |
+| 短期 | 时间          |名称          | 脚本                                                                                                    | 活动入口                |
+| ---- | ------------ | ------------ | ------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1   |21.1.18~21.2.11| 京东炸年兽🧨  |  [jd_nian.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_nian.js)                   | 京东app首页浮动窗口      |
+| 2   |21.1.6~21.2.5  | 盲盒抽京豆    | [jd_mh.js](https://raw.githubusercontent.com/everything3/jd_nian/main/jd_mh.js)                         |                        |
+| 3   |               |              |                                                                                                         |                        |
 
 
 | 活动时间未知 | 名称                    | 脚本                                                                                                 | 活动入口               |
