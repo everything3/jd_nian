@@ -6,7 +6,7 @@ name: jd_xg小鸽有礼
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 7 * * *'
+    - cron: '5 23 * * *'
   #watch:
   #  types: started
   #提交执行
