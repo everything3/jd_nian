@@ -224,12 +224,13 @@ async function jdCrazyJoy() {
   await $.wait(1000)
 
   for (let i = 0; i < $.joyIds.length; ++i) {
-    /*if (!$.canBuy) {
+    if (!$.canBuy) {
       $.log(`金币不足，跳过购买`)
       break
-    }*/
+    }
     if ($.joyIds[i] === 0) {
-      await buyJoy($.buyJoyLevel)
+      await buyJoyLogic()
+      //await buyJoy($.buyJoyLevel)
       await $.wait(1000)
       await getJoyList()
       await $.wait(1000)
