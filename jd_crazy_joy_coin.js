@@ -318,15 +318,17 @@ function getBuyid2b(joyPrices, start = 1, direction = 1) {
   if (direction) {
     // 向上比较
     for (let ind = start - 1; ind < maxL - 1; ind++) {       // 商店 joy 等级和序列号相差1，需要减一下
-      if (joyPrices[ind].coins * 2 < joyPrices[ind + 1].coins) return joyPrices[ind].joyId
+      if (joyPrices[ind].coins * 2 < joyPrices[ind + 1].coins) break
     }
-    return maxL
+    return joyPrices[ind].joyId
+    //if (ind == 29) return maxL
   } else {
     // 向下比较
     for (let ind = start - 1; ind > 0; ind--) {
-      if (joyPrices[ind].coins <= joyPrices[ind - 1].coins * 2) return joyPrices[ind].joyId
+      if (joyPrices[ind].coins <= joyPrices[ind - 1].coins * 2) break
     }
-    return 1
+    return joyPrices[ind].joyId
+    //if (ind == 0) return 1
   }
 }
 
