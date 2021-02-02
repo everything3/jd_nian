@@ -339,7 +339,7 @@ function buyJoyLogic() {
     } else if (zeroNum === 1) {
       await buyJoy(finMinJoyLevel());
     } else {
-      let buyLevel = 1, joyPrices
+      let buyLevel = 24, joyPrices //原程序buyLevel=1，我将buyLevel与getBuyid2b函数中的start统一；因为好像程序会出错导致直接使用此处的buyLevel（不确定）
       console.log('joyPrices', JSON.stringify($.joyPrices))
       if (zeroNum > 2) joyPrices = $.joyPrices;
       while (zeroNum--) {
