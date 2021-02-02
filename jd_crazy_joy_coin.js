@@ -221,7 +221,7 @@ async function jdCrazyJoy() {
   await hourBenefit()
   await $.wait(1000)
   await getCoin()
-  await $.wait(1000)
+  /*await $.wait(1000)
 
   for (let i = 0; i < $.joyIds.length; ++i) {
     if (!$.canBuy) {
@@ -236,7 +236,7 @@ async function jdCrazyJoy() {
       await $.wait(1000)
       await getCoin();
     }
-  }
+  }*/
 
   let obj = {};
   $.joyIds.map((vo, idx) => {
@@ -280,6 +280,24 @@ async function jdCrazyJoy() {
       }
     }
   }
+  
+  await $.wait(1000)
+  
+  for (let i = 0; i < $.joyIds.length; ++i) {
+    if (!$.canBuy) {
+      $.log(`金币不足，跳过购买`)
+      break
+    }
+    if ($.joyIds[i] === 0) {
+      await buyJoyLogic()
+      //await buyJoy($.buyJoyLevel)
+      await $.wait(1000)
+      await getJoyList()
+      await $.wait(1000)
+      await getCoin();
+    }
+  }
+  
   await getUserBean()
   await $.wait(5000)
   console.log(`当前信息：${$.bean} 京豆，${$.coin} 金币`)
