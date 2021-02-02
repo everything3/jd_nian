@@ -310,7 +310,7 @@ function finMinJoyLevel() {
  * @param     {number}    direction    向上比较还是向下比较。0：向下比较，1：向上比较，默认：0
  * @return    {number}                 返回最终适合购买的等级
  */
-function getBuyid2b(joyPrices, start = 1, direction = 1) {
+function getBuyid2b(joyPrices, start = 24, direction = 1) {
   if (start < 1 || start > 30) {
     console.log('start 等级输入不合法')
     return 1
