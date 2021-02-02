@@ -66,7 +66,7 @@ class CrazyJoy {
     await this.gameState()
     await this.doSign()
     setInterval(__ => this.produce(), PRODUCE_WAIT) // 模拟挂机1s一次
-    setInterval(__ => this.checkAndMerge(), MERGE_WAIT) // 购买合并升级1分钟一次
+    //暂停setInterval(__ => this.checkAndMerge(), MERGE_WAIT) // 购买合并升级1分钟一次
     setInterval(__ => this.obtainAward(), 1000 * 60 * 30) //领取金币，固定30分钟一次
     // await this.produce()
     // await this.checkAndMerge()
