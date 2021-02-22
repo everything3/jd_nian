@@ -2,6 +2,7 @@
 # 请不要在此fork!   真正的原作者：https://gitee.com/lxk0301/jd_scripts/tree/master/ ，其GitHub账号https://github.com/lxk0301/ 已封
 # https://github.com/Vainchaos/null01/tree/main
 # https://github.com/shuye73/MyActions/tree/main
+# https://gitee.com/shuye72/MyActions
 
 ## 特别声明: 
 
