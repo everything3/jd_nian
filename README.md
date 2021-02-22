@@ -1,6 +1,7 @@
 # 本项目为搬运，更新不及时，需要的朋友请移步原项目地址：https://github.com/quyi17/JD
 # 请不要在此fork!   真正的原作者：https://gitee.com/lxk0301/jd_scripts/tree/master/ ，其GitHub账号https://github.com/lxk0301/ 已封
 # https://github.com/Vainchaos/null01/tree/main
+# https://github.com/shuye73/MyActions/tree/main
 
 ## 特别声明: 
 
