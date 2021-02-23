@@ -6,7 +6,7 @@ name: jd_beauty
 on:
   workflow_dispatch:
   schedule:
-    - cron: '1 4,10,17 * * *'
+    - cron: '1 1,4,10,17 * * *'
   #watch:
   #  types: started
   #提交执行
