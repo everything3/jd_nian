@@ -6,6 +6,7 @@
 # https://github.com/danwangshimoluo/JdScripts
 # https://gitee.com/lxk0301/
 # https://github.com/wisz2021
+# https://github.com/lyk0803/JD-618
 
 ## 特别声明: 
 
