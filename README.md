@@ -4,6 +4,8 @@
 # https://github.com/shuye73/MyActions/tree/main
 # https://gitee.com/shuye72/MyActions
 # https://github.com/danwangshimoluo/JdScripts
+# https://gitee.com/lxk0301/
+# https://github.com/wisz2021
 
 ## 特别声明: 
 
