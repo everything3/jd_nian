@@ -6,12 +6,12 @@ name: 618动物联萌
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0-23/1 * * *'
+    - cron: '1 0-23/4 * * *'
   
-  watch:
-    types: started
-  repository_dispatch:
-    types: 测试
+  #watch:
+  #  types: started
+  #repository_dispatch:
+  #  types: 测试
 jobs:
   build:
 
