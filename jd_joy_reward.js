@@ -104,7 +104,7 @@ async function joyReward() {
       } else if ($.getdata('joyRewardName')) {
         if ($.getdata('joyRewardName') * 1 === 1) {
           //兼容之前的BoxJs设置
-          rewardNum = 20;
+          rewardNum = 500;
         } else {
           rewardNum = $.getdata('joyRewardName') * 1;
         }
