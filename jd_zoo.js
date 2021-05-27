@@ -160,11 +160,11 @@ async function zoo() {
     //await takePostRequest('zoo_getFeedDetail');
     //await $.wait(1000);
     let raiseInfo = $.homeData.result.homeMainInfo.raiseInfo;
-    if (Number(raiseInfo.totalScore) > Number(raiseInfo.nextLevelScore) && raiseInfo.buttonStatus === 1) {
+    /*if (Number(raiseInfo.totalScore) > Number(raiseInfo.nextLevelScore) && raiseInfo.buttonStatus === 1) {
       console.log(`满足升级条件，去升级`);
       await $.wait(3000);
       await takePostRequest('zoo_raise');
-    }
+    }*/
     //收金币
     await $.wait(1000);
     await takePostRequest('zoo_collectProduceScore');
@@ -200,11 +200,11 @@ async function zoo() {
       }
       await takePostRequest('zoo_getHomeData');
       let raiseInfo = $.homeData.result.homeMainInfo.raiseInfo;
-      if (Number(raiseInfo.totalScore) > Number(raiseInfo.nextLevelScore) && raiseInfo.buttonStatus === 1) {
+      /*if (Number(raiseInfo.totalScore) > Number(raiseInfo.nextLevelScore) && raiseInfo.buttonStatus === 1) {
         console.log(`满足升级条件，去升级`);
         await $.wait(1000);
         await takePostRequest('zoo_raise');
-      }
+      }*/
     }
     //===================================图鉴里的店铺====================================================================
     if (new Date().getUTCHours() + 8 >= 17 && new Date().getUTCHours() + 8 <= 18) {//分享
