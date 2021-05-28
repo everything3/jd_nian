@@ -1,3 +1,4 @@
+# 2021.5.28-暂时停止运行该项目，其中脚本jd_beauty、jd_unsubscribe、京东年货节、京东神仙书院、京东神仙书院答题、天天领白条券、盲盒抽京豆原本就不运行。
 # 本项目为搬运，更新不及时，需要的朋友请移步原项目地址：https://github.com/quyi17/JD
 # 请不要在此fork!   真正的原作者：https://gitee.com/lxk0301/jd_scripts/tree/master/ ，其GitHub账号https://github.com/lxk0301/ 已封
 # https://github.com/Vainchaos/null01/tree/main
