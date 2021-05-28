@@ -1,4 +1,21 @@
 # 2021.5.28-暂时停止运行该项目，其中脚本jd_beauty、jd_unsubscribe、京东年货节、京东神仙书院、京东神仙书院答题、天天领白条券、盲盒抽京豆原本就不运行。
+#### 互助码
+|序号  | 活动名       | 参数名                      |账号1（jd_696ccdb8f007c）           | 账号2（jd_HvmvlVkrDNfQ）                       |
+|:---:|:------------:|:---------------------------:|:---------------------------------:|:---------------------------------------------:|
+| 1   | 城城分现金    | CITY_SHARECODES             |                                   |                                               |
+| 2   | 东东工厂      | DDFACTORY_SHARECODES        |                                   |                                               |
+| 3   | 京喜工厂      | DREAM_FACTORY_SHARE_CODES   |                                   | 无                                            |
+| 4   | 京东农场      | FRUITSHARECODES             |                                   |                                               |
+| 5   | 京喜财富岛    | JDCFD_SHARECODES            | undefined                         | undefined                                     |
+| 6   | 疯狂的JOY     | JDJOY_SHARECODES            | 无                                |                                               |
+| 7   | 闪购盲盒      | JDSGMH_SHARECODES           |                                   |                                               |
+| 8   | 京东赚赚      | JDZZ_SHARECODES             |                                   |                                               |
+| 9   | 签到领现金    | JD_CASH_SHARECODES          |                                   |                                               |
+| 10  | 东东萌宠      | PETSHARECODES               |                                   |                                               |
+| 11  | 种豆得豆      | PLANT_BEAN_SHARECODES       |                                   |                                               |
+
+
+
 # 本项目为搬运，更新不及时，需要的朋友请移步原项目地址：https://github.com/quyi17/JD
 # 请不要在此fork!   真正的原作者：https://gitee.com/lxk0301/jd_scripts/tree/master/ ，其GitHub账号https://github.com/lxk0301/ 已封
 # https://github.com/Vainchaos/null01/tree/main
