@@ -27,6 +27,7 @@
 # https://github.com/lyk0803/JD-618
 # https://github.com/hajiuhajiu/jdsign1112
 # https://github.com/inoyna11/jd28
+# https://github.com/FtdConcept/jd28
 
 ## 特别声明: 
 
