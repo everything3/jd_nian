@@ -28,6 +28,7 @@
 # https://github.com/hajiuhajiu/jdsign1112
 # https://github.com/inoyna11/jd28
 # https://github.com/FtdConcept/jd28
+# https://github.com/1483615512/jd28
 
 ## 特别声明: 
 
