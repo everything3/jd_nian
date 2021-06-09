@@ -1,6 +1,6 @@
 # 2021.5.28-暂时停止运行该项目，其中脚本jd_beauty、jd_unsubscribe、京东年货节、京东神仙书院、京东神仙书院答题、天天领白条券、盲盒抽京豆原本就不运行。
 #### 互助码（用来分享给其他账号为本账号助力）
-|序号  | 活动名       | 参数名                      |账号1（jd_696ccdb8f007c）                              | 账号2（jd_HvmvlVkrDNfQ）                       |
+|序号  | 活动名       | 参数名                      |账号1（jd_***7c）                              | 账号2（jd_***fQ）                       |
 |:---:|:------------:|:---------------------------:|:----------------------------------------------------:|:---------------------------------------------:|
 | 1   | 城城分现金    | CITY_SHARECODES             | RtGKzuWiEln3LIvMF9Q0hYcAYBDHIyzWVvGcNg-ImWhCypXRgA   | RtGKsKr5B1bFJcHuaYJSmnRfr0mMN0pvthVevriOMujsrz_a                                              |
 | 2   | 东东工厂      | DDFACTORY_SHARECODES        |                                   |                                               |
