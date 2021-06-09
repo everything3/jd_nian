@@ -33,6 +33,7 @@
 # https://github.com/zero205/JD
 # https://github.com/wuzhi04/MyActions
 # https://github.com/hbstarjason2021/jd_scripts/tree/jd_scripts-new
+# https://github.com/YouHolmes/JdScripts
 
 ## 特别声明: 
 
