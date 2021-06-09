@@ -29,6 +29,8 @@
 # https://github.com/inoyna11/jd28
 # https://github.com/FtdConcept/jd28
 # https://github.com/1483615512/jd28
+# https://github.com/zero205/JD_tencent_scf
+# https://github.com/zero205/JD
 
 ## 特别声明: 
 
