@@ -34,6 +34,7 @@
 # https://github.com/wuzhi04/MyActions
 # https://github.com/hbstarjason2021/jd_scripts/tree/jd_scripts-new
 # https://github.com/YouHolmes/JdScripts
+# https://github.com/inoyna111/jd28
 
 ## 特别声明: 
 
