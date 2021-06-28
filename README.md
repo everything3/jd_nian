@@ -35,6 +35,8 @@
 # https://github.com/hbstarjason2021/jd_scripts/tree/jd_scripts-new
 # https://github.com/YouHolmes/JdScripts
 # https://github.com/inoyna111/jd28
+# https://github.com/JDHelloWorld/jd_scripts
+# https://github.com/tabs/MyActions_Chaego
 
 ## 特别声明: 
 
