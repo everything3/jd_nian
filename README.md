@@ -37,6 +37,7 @@
 # https://github.com/inoyna111/jd28
 # https://github.com/JDHelloWorld/jd_scripts
 # https://github.com/tabs/MyActions_Chaego
+# https://github.com/smiek2221/scripts
 
 ## 特别声明: 
 
