@@ -38,6 +38,7 @@
 # https://github.com/JDHelloWorld/jd_scripts
 # https://github.com/tabs/MyActions_Chaego
 # https://github.com/smiek2221/scripts
+# https://github.com/Ariszy/Private-Script
 
 ## 特别声明: 
 
